@@ -1,0 +1,15 @@
+D:\Ana Livia DDS\Lista-01-atividades-console\autoria 1\autoria 1\bin\Debug\net7.0\autoria 1.exe
+D:\Ana Livia DDS\Lista-01-atividades-console\autoria 1\autoria 1\bin\Debug\net7.0\autoria 1.deps.json
+D:\Ana Livia DDS\Lista-01-atividades-console\autoria 1\autoria 1\bin\Debug\net7.0\autoria 1.runtimeconfig.json
+D:\Ana Livia DDS\Lista-01-atividades-console\autoria 1\autoria 1\bin\Debug\net7.0\autoria 1.dll
+D:\Ana Livia DDS\Lista-01-atividades-console\autoria 1\autoria 1\bin\Debug\net7.0\autoria 1.pdb
+D:\Ana Livia DDS\Lista-01-atividades-console\autoria 1\autoria 1\obj\Debug\net7.0\autoria 1.csproj.AssemblyReference.cache
+D:\Ana Livia DDS\Lista-01-atividades-console\autoria 1\autoria 1\obj\Debug\net7.0\autoria 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ana Livia DDS\Lista-01-atividades-console\autoria 1\autoria 1\obj\Debug\net7.0\autoria 1.AssemblyInfoInputs.cache
+D:\Ana Livia DDS\Lista-01-atividades-console\autoria 1\autoria 1\obj\Debug\net7.0\autoria 1.AssemblyInfo.cs
+D:\Ana Livia DDS\Lista-01-atividades-console\autoria 1\autoria 1\obj\Debug\net7.0\autoria 1.csproj.CoreCompileInputs.cache
+D:\Ana Livia DDS\Lista-01-atividades-console\autoria 1\autoria 1\obj\Debug\net7.0\autoria 1.dll
+D:\Ana Livia DDS\Lista-01-atividades-console\autoria 1\autoria 1\obj\Debug\net7.0\refint\autoria 1.dll
+D:\Ana Livia DDS\Lista-01-atividades-console\autoria 1\autoria 1\obj\Debug\net7.0\autoria 1.pdb
+D:\Ana Livia DDS\Lista-01-atividades-console\autoria 1\autoria 1\obj\Debug\net7.0\autoria 1.genruntimeconfig.cache
+D:\Ana Livia DDS\Lista-01-atividades-console\autoria 1\autoria 1\obj\Debug\net7.0\ref\autoria 1.dll
